@@ -1,4 +1,5 @@
 # Portfolios
+My list of web-portfolios that I think are awesome. Pull requests are welcome.
 
 ## Resources
 * https://www.reddit.com/r/web_design/comments/6glc6i/best_ridiculously_simple_portfolio_sites/
