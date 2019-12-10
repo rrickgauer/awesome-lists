@@ -1,2 +1,2 @@
 # awesome-lists
-My personal lists of everything
+My personal lists for everything and anything
