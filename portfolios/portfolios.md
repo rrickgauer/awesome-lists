@@ -15,7 +15,7 @@
 
 ## 4. https://pedak.me/
 * very simple design, yet looks very good
-![Screen capture](/img/4.png)
+![Screen capture](img/4.png)
 
 ## 5. https://colebemis.com/
 * interesting way of formatting all sections like a list
