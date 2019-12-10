@@ -49,29 +49,3 @@ My list of web-portfolios that I think are awesome. Pull requests are welcome.
 * great visuals
 * 100% free to use
 ![Screen capture](img/11.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- eof -->
