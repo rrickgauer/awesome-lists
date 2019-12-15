@@ -19,24 +19,28 @@ My list of web-portfolios that I think are awesome. Pull requests are welcome.
 ![Screen capture](img/portfolios/2.png)
 
 ## https://andrewzah.com/posts/my-setup-remote-programming-osx-2019/#development-machine
-* I really like the table of contents as the sidebar here
-![Screen capture](img/portfolios/3.png)
 
-## https://andrewzah.com/posts/my-setup-remote-programming-osx-2019/#development-machine
 * I really like the table of contents as the sidebar here
+
 ![Screen capture](img/portfolios/3.png)
 
 ## https://colebemis.com/
+
 * interesting way of formatting all sections like a list
+
 ![Screen capture](img/portfolios/5.png)
 
 ## https://arthelon.github.io/
+
 * another simple list type format
+
 ![Screen capture](img/portfolios/6.png)
 
 ## https://tomanistor.com/
+
 * cool black and white color scheme
 * also cool blog format
+
 ![Screen capture](img/portfolios/7.png)
 
 ## https://blackrockdigital.github.io/startbootstrap-freelancer/
