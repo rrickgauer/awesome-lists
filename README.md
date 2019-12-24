@@ -67,3 +67,6 @@ My list of web-portfolios that I think are awesome. Pull requests are welcome.
 # Blogs
 ## https://markdotto.com/
 This blog is written by one of the creators of [Bootstrap](https://github.com/twbs/bootstrap). He provides some quick advice, and has a sense of humor which is refreshing.
+
+## https://www.vanschneider.com/blog
+
